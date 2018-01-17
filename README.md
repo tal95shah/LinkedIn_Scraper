@@ -25,6 +25,7 @@ For proper usage first install selenium and parsel.Open Command Line and type co
 pip install selenium
 pip install parsel
 </pre>
+Download Google Chrome Driver for selenium [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/)
 Open Command Line and go to this directory (LinkedIn_Scraper/)
 <pre>
 Type:-
