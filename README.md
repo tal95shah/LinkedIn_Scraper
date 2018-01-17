@@ -34,6 +34,6 @@ python linkedin_scraper.py
 Your result should be like Screenshot shown above.
 ## Gotchas
 1-You must have python 3.6 pre-installed to use this software.<br>
-2-When you are entering password.It wont show just like console input.Dont Worry. 
+2-When you input password in command line , it wont show ( For Privacy )  
 ## If 
 If any issue comes do write in issues column. Thanks!
