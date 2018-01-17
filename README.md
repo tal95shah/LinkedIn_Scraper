@@ -33,7 +33,7 @@ python linkedin_scraper.py
 ## Result
 Your result should be like Screenshot shown above.
 ## Gotchas
-1-You must have python 3.6 pre-installed to use this software.
+1-You must have python 3.6 pre-installed to use this software.<br>
 2-When you are entering password.It wont show just like console input.Dont Worry. 
 ## If 
 If any issue comes do write in issues column. Thanks!
