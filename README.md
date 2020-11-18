@@ -1,5 +1,8 @@
 # LinkedIn_Scraper
 
+## NOTE: This repository is not maintained anymore.
+
+
 A Selenium based automated program that scrapes [Linkedin](https://www.linkedin.com/)  profiles data,stores in CSV,follows them and saves their profile in PDF.
 
 ## Screenshot
