@@ -6,9 +6,9 @@
 A Selenium based automated program that scrapes [Linkedin](https://www.linkedin.com/)  profiles data,stores in CSV,follows them and saves their profile in PDF.
 
 ## Sponsors
-[![Logo](docs/Proxycurl.png)](https://nubela.co/proxycurl?utm_campaign=affiliatemarketing&utm_source=affiliate_link&utm_medium=affiliate&utm_content=talha_gillani_linkedin_scraper)
+[![Logo](docs/Proxycurl.png)](https://nubela.co/proxycurl?utm_campaign=influencer_marketing&utm_source=github&utm_medium=social&utm_content=talha_gillani_linkedin_scraper)
 
-Scrape public LinkedIn profile data at scale with [Proxycurl APIs](https://nubela.co/proxycurl?utm_campaign=affiliatemarketing&utm_source=affiliate_link&utm_medium=affiliate&utm_content=talha_gillani_linkedin_scraper).
+Scrape public LinkedIn profile data at scale with [Proxycurl APIs](https://nubela.co/proxycurl?utm_campaign=influencer_marketing&utm_source=github&utm_medium=social&utm_content=talha_gillani_linkedin_scraper).
 
 • Scraping Public profiles are battle tested in court in HiQ VS LinkedIn case.<br/>
 • GDPR, CCPA, SOC2 compliant<br/>
